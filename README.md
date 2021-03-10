@@ -1,5 +1,5 @@
 # CodeWars
-![](https://www.codewars.com/users/danielex1999/badges/large)<br>
+![](https://www.codewars.com/users/danielex1999/badges/large)<br><br>
 <img src="https://img.shields.io/badge/Language-Java-blue.svg"><br>
 Codewars is a collective effort by its users. They are creators - authoring kata to teach various techniques, solving kata with solutions that enlighten others, and commenting with constructive feedback. The leaders among them moderate the content and community.
 
