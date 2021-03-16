@@ -1,7 +1,7 @@
 # CodeWars
 ![](https://www.codewars.com/users/danielex1999/badges/large)<br><br>
 <img src="https://img.shields.io/badge/Language-Java-blue.svg">
-<img src="https://img.shields.io/badge/Problems%20Solved-153-brightgreen.svg"><br><br>
+<img src="https://img.shields.io/badge/Problems%20Solved-53-brightgreen.svg"><br><br>
 Codewars is a collective effort by its users. They are creators - authoring kata to teach various techniques, solving kata with solutions that enlighten others, and commenting with constructive feedback. The leaders among them moderate the content and community.
 
 <img align='left' src='https://www.ffbegif.com/Rain%20&%20Fina%20(NV)/100032707%20Win%20Before.gif' width='20%'>  
