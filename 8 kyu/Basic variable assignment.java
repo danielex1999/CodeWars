@@ -1,3 +1,3 @@
 public class Kata {
-    public static String name = "codewa.rs";
+    public static String name = "codewa.rs"; 
 }
