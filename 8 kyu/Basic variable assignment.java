@@ -6,8 +6,3 @@ public class Kata {
 
 
 
-
-
-
-
-
