@@ -3,6 +3,3 @@ public class Kata {
 }
 
 
-
-
-
