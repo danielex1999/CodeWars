@@ -10,3 +10,12 @@ public class XOR {
         }
     }
 }
+
+
+
+
+
+
+
+
+
