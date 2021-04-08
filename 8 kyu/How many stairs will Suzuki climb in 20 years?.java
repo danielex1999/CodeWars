@@ -10,3 +10,7 @@ public class Kata
        return result*20;
     }
 }
+
+
+
+
