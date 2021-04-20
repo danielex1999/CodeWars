@@ -9,5 +9,3 @@ interface MaxRotate {
     return max;
   }
 }
-
-
