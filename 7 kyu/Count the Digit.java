@@ -5,4 +5,3 @@ public class CountDig {
     return (int) rangeClosed(0, n).flatMap(i -> ("" + i * i).chars()).filter(i -> i == (char) (d + '0')).count();
     }
 }
-
