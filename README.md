@@ -1,7 +1,7 @@
 # CodeWars
 ![](https://www.codewars.com/users/danielex1999/badges/large)<br><br>
 <img src="https://img.shields.io/badge/Language-Java-blue.svg">
-<img src="https://img.shields.io/badge/Solved Problems-216-brightgreen.svg">
+<img src="https://img.shields.io/badge/Solved Problems-220-brightgreen.svg">
 <img src="https://img.shields.io/github/last-commit/danielex1999/CodeWars?color=red"><br><br>
 <img src="https://img.shields.io/badge/8 kyu-183-lightgrey">
 <img src="https://img.shields.io/badge/7%20kyu-19-orange">
