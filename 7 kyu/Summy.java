@@ -9,4 +9,3 @@ class Summation {
     return result;
   }
 }
-
