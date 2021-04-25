@@ -12,4 +12,3 @@ Codewars is a collective effort by its users. They are creators - authoring kata
 <img align='right' src='https://www.ffbegif.com/Dark%20Fina%20&%20Sol%20(NV)/100033007%20Win.gif' width='20%'>  
 
 
-
