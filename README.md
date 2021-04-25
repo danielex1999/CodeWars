@@ -14,4 +14,3 @@ Codewars is a collective effort by its users. They are creators - authoring kata
 
 
 
-
