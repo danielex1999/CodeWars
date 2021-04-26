@@ -9,4 +9,3 @@ return dna.replace('T', '_').replace('A', 'T').replace('_', 'A').replace('C', '_
 
 
 
-
