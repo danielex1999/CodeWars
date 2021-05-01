@@ -3,4 +3,3 @@ public class Kata {
     return str.endsWith(ending);
   }
 }
-
