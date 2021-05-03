@@ -6,4 +6,3 @@ interface Kata {
     return stream(original.split("(?<=\\s)|(?=\\s+)")).map(s -> new StringBuilder(s).reverse().toString()).collect(joining());
   }
 }
-
