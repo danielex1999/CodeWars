@@ -21,11 +21,4 @@ public class Palindromes {
         } while (true);
       }
     }
-  
-  
-  
-  
-  
-  
-  
 }
