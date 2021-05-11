@@ -25,4 +25,3 @@ public class Kata {
     return phoneNum;
   }
 }
-
