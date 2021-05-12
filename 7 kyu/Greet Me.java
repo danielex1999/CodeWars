@@ -5,4 +5,3 @@ public class GreetMe{
     return "Hello " + name.toUpperCase().charAt(0)+edit+"!";
   }
 }
-
