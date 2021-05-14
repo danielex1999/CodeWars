@@ -8,4 +8,3 @@ public class Chocolate{
     return result;
   }
 }
-
