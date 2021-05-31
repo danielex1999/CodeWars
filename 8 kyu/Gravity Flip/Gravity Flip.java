@@ -14,4 +14,3 @@ public class Kata {
     return arr;
   }
 }
-
