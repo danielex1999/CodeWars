@@ -5,7 +5,6 @@ public class Kata{
       int result3=a+b*c;
       int result4=(a+b)*c;
       int result5=a+b+c;
-      
       int max = result1;
 
     if (result2 > max)
@@ -16,8 +15,6 @@ public class Kata{
         max = result4;
     if (result5 > max)
         max = result5;
-
-
      return max;
   }
 }
